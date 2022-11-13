@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18df44d3.css",
+    "main.js": "/static/js/main.f9f9be12.js",
+    "static/media/blog-post-1-cover.jpg": "/static/media/blog-post-1-cover.a90ce18f3a1acacf46ad.jpg",
+    "static/media/blog-post-2.jpg": "/static/media/blog-post-2.d5f63e2cb21862ee266d.jpg",
+    "static/media/blog-post-3.jpg": "/static/media/blog-post-3.93d48a93b8b35639621f.jpg",
+    "static/media/tripadvisor.jpg": "/static/media/tripadvisor.c22bd5a1ab24dfc9b22a.jpg",
+    "static/media/person4.png": "/static/media/person4.643236e1d0490b3d2c9b.png",
+    "index.html": "/index.html",
+    "main.18df44d3.css.map": "/static/css/main.18df44d3.css.map",
+    "main.f9f9be12.js.map": "/static/js/main.f9f9be12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18df44d3.css",
+    "static/js/main.f9f9be12.js"
+  ]
+}
